@@ -1,0 +1,25 @@
+body{
+    
+ /* background-color: black; */
+
+    /* color: #43557e; */
+    font-family: sans-serif;
+   font-size: 2em;
+    text-align:center;
+    color: #43557e;
+
+    
+  }
+  #container{
+    background-image: url('./img/background.png') ;
+    background-repeat: no-repeat; 
+    width: 827px;
+    background-size: cover; 
+    height: 91vh;
+    margin:auto
+}
+canvas{
+  width: 555px;
+  margin-top: 50px;
+  height: 543px;
+}
