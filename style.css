@@ -13,13 +13,13 @@ body{
   #container{
     background-image: url('./img/background.png') ;
     background-repeat: no-repeat; 
-    width: 830px;
+    width: 988px;
     background-size: cover; 
     height: 110vh;
     margin:auto
 }
 canvas{
-  width: 545px;
-  margin-top: 85px;
-  height: 545px;
+  width: 660px;
+  margin-top: 100px;
+  height: 575px;
 }
